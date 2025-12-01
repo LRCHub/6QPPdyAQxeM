@@ -1,0 +1,200 @@
+{
+  "version": 1,
+  "base_track": "Crushed",
+  "base_artist": "Imagine Dragons",
+  "createdAt": "2025-12-01T05:26:31.448299Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "My Body's Made of Crushed Little Stars",
+      "artist": "Mitski",
+      "has_synced": true,
+      "path": "select/01_My_Body's_Made_of_Crushed_Little_Stars_Mitski.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Crushed By the Wheels of Industry",
+      "artist": "Heaven 17",
+      "has_synced": false,
+      "path": "select/02_Crushed_By_the_Wheels_of_Industry_Heaven_17.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Crushed By the Wheels of Industry - Extended Dance Mix",
+      "artist": "Heaven 17",
+      "has_synced": false,
+      "path": "select/03_Crushed_By_the_Wheels_of_Industry_-_Extended_Dance_Mix_Heaven_17.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Crushed By the Wheels of Industry (Parts One and Two) - Uninterrupted Single Version",
+      "artist": "Heaven 17",
+      "has_synced": false,
+      "path": "select/04_Crushed_By_the_Wheels_of_Industry_(Parts_One_and_Two)_-_Uninterrupted_Single_Ver_Heaven_17.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Crushed",
+      "artist": "Astrobrite",
+      "has_synced": false,
+      "path": "select/05_Crushed_Astrobrite.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Crushed",
+      "artist": "The Brian Jonestown Massacre",
+      "has_synced": false,
+      "path": "select/06_Crushed_The_Brian_Jonestown_Massacre.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Crushed",
+      "artist": "Wicca Phase Springs Eternal",
+      "has_synced": true,
+      "path": "select/07_Crushed_Wicca_Phase_Springs_Eternal.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Crushed Up",
+      "artist": "Future",
+      "has_synced": true,
+      "path": "select/08_Crushed_Up_Future.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Crushed",
+      "artist": "Limp Bizkit feat. Bosko",
+      "has_synced": true,
+      "path": "select/09_Crushed_Limp_Bizkit_feat._Bosko.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Crushed (Remix By Bosko)",
+      "artist": "Limp Bizkit",
+      "has_synced": true,
+      "path": "select/10_Crushed_(Remix_By_Bosko)_Limp_Bizkit.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Crushed",
+      "artist": "Limp Bizkit",
+      "has_synced": false,
+      "path": "select/11_Crushed_Limp_Bizkit.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Crushed Dreams",
+      "artist": "Tristania",
+      "has_synced": true,
+      "path": "select/12_Crushed_Dreams_Tristania.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "I Am Crushed",
+      "artist": "The Vandals",
+      "has_synced": false,
+      "path": "select/13_I_Am_Crushed_The_Vandals.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Pink Cookies in a Plastic Bag Getting Crushed by Buildings",
+      "artist": "LL Cool J",
+      "has_synced": true,
+      "path": "select/14_Pink_Cookies_in_a_Plastic_Bag_Getting_Crushed_by_Buildings_LL_Cool_J.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Crushed Bones",
+      "artist": "WHY?",
+      "has_synced": true,
+      "path": "select/15_Crushed_Bones_WHY.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "hand crushed by a mallet",
+      "artist": "100 gecs",
+      "has_synced": true,
+      "path": "select/16_hand_crushed_by_a_mallet_100_gecs.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "hand crushed by a mallet (Remix) [feat. Fall Out Boy, Craig Owens, Nicole Dollanganger]",
+      "artist": "100 gecs",
+      "has_synced": true,
+      "path": "select/17_hand_crushed_by_a_mallet_(Remix)_[feat._Fall_Out_Boy,_Craig_Owens,_Nicole_Dollan_100_gecs.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "hand crushed by a mallet (nothankyou Remix)",
+      "artist": "100 gecs",
+      "has_synced": true,
+      "path": "select/18_hand_crushed_by_a_mallet_(nothankyou_Remix)_100_gecs.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Crushed Velvet",
+      "artist": "Yves Tumor",
+      "has_synced": true,
+      "path": "select/19_Crushed_Velvet_Yves_Tumor.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Crushed",
+      "artist": "Imagine Dragons",
+      "has_synced": false,
+      "path": "select/pl_01_Crushed_Imagine_Dragons.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "Crushed",
+      "artist": "Imagine Dragons",
+      "has_synced": false,
+      "path": "select/pl_02_Crushed_Imagine_Dragons.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "crushed town",
+      "artist": "Imagine Dragons",
+      "has_synced": false,
+      "path": "select/pl_03_crushed_town_Imagine_Dragons.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "Crushed",
+      "artist": "Imagine Dragons",
+      "has_synced": false,
+      "path": "select/pl_04_Crushed_Imagine_Dragons.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "crushed nail",
+      "artist": "Imagine Dragons",
+      "has_synced": false,
+      "path": "select/pl_05_crushed_nail_Imagine_Dragons.txt"
+    }
+  ]
+}
